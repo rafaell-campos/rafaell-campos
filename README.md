@@ -19,6 +19,7 @@ using technologies such as SQL/NoSQL, Android Studio, Postman, Swagger UI, along
 </div>
   
   ##
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaell-campos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaell-campos/rafaell-campos/output/github-contribution-grid-snake.svg">
